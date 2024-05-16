@@ -2,9 +2,9 @@
 Αισθητήρας επιτάχυνσης για σύστημα αερόσακου αυτοκινήτου
 
 ## Authors
--[Giannakis Myron]
--[Mpoumpalis Georgios]
--[Theofilou Stylianos]
+- [Giannakis Myron]
+- [Mpoumpalis Georgios]
+- [Theofilou Stylianos]
 
 ## Software
 * Matlab - Simulink version 2022a
